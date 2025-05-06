@@ -1,19 +1,16 @@
-🔍 Analista de Requisitos | Figma | Diagramas | Documentação
+🎯 Desenvolvedor Frontend | React | TypeScript | Figma
 
-Analista de Requisitos com foco em clareza e eficiência.
+Sou Desenvolvedor Frontend com foco em criar interfaces funcionais, acessíveis e alinhadas às necessidades do usuário e do negócio.
 
 💡 Habilidades:
 
-Figma: Proficiente na criação de protótipos visuais.
+React & TypeScript: Construção de interfaces robustas e escaláveis.
 
-Diagramas e Fluxogramas: Aprendendo continuamente.
+Figma: Interpretação e implementação fiel de protótipos.
 
-📄 Documentação:
+HTML, CSS (Tailwind), JavaScript: Bases sólidas para UI responsiva e moderna.
 
-Comprometido com documentação precisa e abrangente.
-🚀 Aprendizado Constante:
+Integração com APIs: Consumo eficiente de dados e foco na performance.
 
-Sempre buscando melhorar habilidades e conhecimentos.
-💬 Conecte-se Comigo:
-
-Aberto a colaborações e networking.
+🧠 Aprendizado Contínuo:
+Sempre em evolução, acompanhando boas práticas, padrões modernos e novas tecnologias.
